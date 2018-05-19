@@ -1,6 +1,7 @@
+import re
+
 from requests import *
-from MilitarySites import *
-import datetime, re, os
+
 
 class Detector:
 
